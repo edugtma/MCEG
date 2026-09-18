@@ -5,7 +5,7 @@ hola soy Eduardo Gutierrez me meti a mecatronica porque se ma hace una carrera m
 
 # *Programa 1*
 en este programa logramos hacer que un led parpade a cierta velocidad aumentando el delay entre accion y accion
-[Programa1 pt1](https://youtube.com/shorts/e3gQDac2cO0?feature=share), de la misma manera con el uso de delay y una alineacion adecuada se logra que dos leds turnen su encendido
+<a href="https://youtube.com/shorts/e3gQDac2c00?feature=share" target="_blank">Programa1 pt1</a>, de la misma manera con el uso de delay y una alineacion adecuada se logra que dos leds turnen su encendido
 [Programa1 pt2](https://youtube.com/shorts/mtbwGQFyiNU?feature=share)
 
 # *programa 2*
