@@ -1,12 +1,11 @@
 <style>
   body {
-    background-image: url(https://www.vecteezy.com/free-photos/electric-blue);
+    background-image: url('https://www.vecteezy.com/free-photos/electric-blue');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
   }
 </style>
-
 # portafolio mecatronica
 hola soy Eduardo Gutierrez me meti a mecatronica porque se ma hace una carrera muy entetenida debido a todo el trabajo manual que conlleva y la mezcla que tiene entre programacion, electronica trabjos en madera cortado lazer e imprecion 3d
 
