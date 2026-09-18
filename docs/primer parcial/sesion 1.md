@@ -1,22 +1,22 @@
+# Portafolio Mecatrónica
 
-<div style="background-color: blue; color: orange; padding: 15px; border-radius: 5px;">
-
-# portafolio mecatronica 
-hola soy Eduardo Gutierrez me meti a mecatronica porque se ma hace una carrera muy entetenida debido a todo el trabajo manual que conlleva y la mezcla que tiene entre programacion, electronica trabjos en madera cortado lazer e imprecion 3d
+Hola, soy Eduardo Gutierrez. Me metí a mecatrónica porque se me hace una carrera muy entretenida debido a todo el trabajo manual que conlleva y la mezcla que tiene entre programación, electrónica, trabajos en madera, corte láser e impresión 3D.
 
 ![Diagrama del sistema](../recursos/imgs/Image.jpg)
 
-# *Programa 1*
-en este programa logramos hacer que un led parpade a cierta velocidad aumentando el delay entre accion y accion
-<a href="https://youtube.com/shorts/e3gQDac2c00?feature=share" target="_blank">Programa1 pt1</a> , de la misma manera con el uso de delay y una alineacion adecuada se logra que dos leds turnen su encendido, en esta imagen se pued ver que codigo fue usado se puede ver que es un codigo simple solo es un juego de delays y en este video se puede ver como es su funcionamiento 
+## Programa 1
+En este programa logramos hacer que un LED parpadee a cierta velocidad aumentando el delay entre acción y acción. 
+<a href="https://youtube.com/shorts/e3gQDac2c00?feature=share" target="_blank">Programa1 pt1</a>, de la misma manera con el uso de delay y una alineación adecuada se logra que dos LEDs turnen su encendido. En esta imagen se puede ver qué código fue usado, un código simple que es solo un juego de delays, y en este video se puede ver cómo es su funcionamiento:
 [Programa1 pt2](https://youtube.com/shorts/mtbwGQFyiNU?feature=share)
+
 ![Diagrama del sistema](../recursos/imgs/Image%20(1).jfif)
 
+## Programa 2
+En esta práctica empezamos el uso de los Arduinos con un código básico que marca el encendido o apagado mediante el uso de un push button:[Programa 2 pt1](https://youtube.com/shorts/GfS_jjcDDDw?feature=share)
 
-# *programa 2*
-en esta practica empesamos el uso de los arduinos con un codigo basico que marca el encendido o apagado mediante el uso de un push button 
-[Programa 2 pt1](https://youtube.com/shorts/GfS_jjcDDDw?feature=share)
- durante esta misma practica co  el uso de el arduina y una aplicacion de celular logramos enlazar los aparatos para permitir que una accion pudiera ser transferida de el celular al arduino 
- [Programa 2 pt2](https://youtube.com/shorts/AIXq_eSvNKI?feature=share) 
- aqui se puede observar el codigo que fue usado ![Diagrama del sistema](../recursos/imgs/Image.jfif)
- </div>
+Durante esta misma práctica, con el uso del Arduino y una aplicación de celular, logramos enlazar los aparatos para permitir que una acción pudiera ser transferida del celular al Arduino:
+[Programa 2 pt2](https://youtube.com/shorts/AIXq_eSvNKI?feature=share)
+
+Aquí se puede observar el código que fue usado:
+
+![Diagrama del sistema](../recursos/imgs/Image.jfif)
