@@ -87,7 +87,7 @@ void loop() {
   }
 }
 ```
-# programa 3
+## programa 3
 en esta practica aprendimos a usar tinkercad y vimos las bases de el controlamiento de motores basicos y servo motores hicimos dos practicas la primera la mas basica fue hacer que un motor cambiara de direccion  su rotacion, tambien aprendimos un nuevo tipo de microcontrolador el puente h el cua es el responsable de poder invertir las direcciones de los motores.
 
 ![Diagrama del sistema](../recursos/imgs/Imagels.png)
