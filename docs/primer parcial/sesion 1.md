@@ -20,3 +20,7 @@ Durante esta misma práctica, con el uso del Arduino y una aplicación de celula
 Aquí se puede observar el código que fue usado:
 
 ![Diagrama del sistema](../recursos/imgs/Image.jfif)
+
+## Programa 3
+en esta practica aprendimos a controlar las rotaciones de los motores mediante codigo permitiendo que cambien su direccion de rotacion constantemente 
+![Diagrama del sistema](../recursos/imgs/imagen%202.png)
