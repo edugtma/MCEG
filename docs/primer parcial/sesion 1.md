@@ -95,9 +95,10 @@ en el segundo sistema hicimo s que el arduino lograra cambiar la direccion de 3 
 
 ![Diagrama del sistema](../recursos/imgs/Captura%20de%20pantalla%202026-09-18%20122539.png)
 este fue el codigo que utilisamos
+
 ```
 #include <Servo.h>
-Servo oliver_dame_de_baja;
+Servo motor;
 void adelante(){
   digitalWrite(6, HIGH);
   digitalWrite(7, LOW);
@@ -125,7 +126,7 @@ void izq (){
 void setup()
 {
   //SERVO
-  oliver_dame_de_baja.attach(9);
+  motor.attach(9);
 
   //MOTOR
   pinMode(6, OUTPUT); //OUT1
@@ -138,11 +139,11 @@ void setup()
 }
 
 void loop(){
-  oliver_dame_de_baja.write(0);
+  motor.write(0);
   delay(1000);
-  oliver_dame_de_baja.write(90);
+  motor.write(90);
   delay(1000);
-  oliver_dame_de_baja.write(180);
+  motor.write(180);
   delay(1000);
   adelante();
   delay(1000);
@@ -153,3 +154,4 @@ void loop(){
   izq();
   delay(1000);
 }
+```
