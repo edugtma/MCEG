@@ -96,7 +96,7 @@ en el segundo sistema hicimo s que el arduino lograra cambiar la direccion de 3 
 ![Diagrama del sistema](../recursos/imgs/Captura%20de%20pantalla%202026-09-18%20122539.png)
 este fue el codigo que utilisamos
 
-```
+``` codigo
 #include <Servo.h>
 Servo motor;
 void adelante(){
